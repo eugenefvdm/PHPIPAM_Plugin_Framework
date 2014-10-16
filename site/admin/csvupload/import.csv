@@ -1,0 +1,65 @@
+,,Description,,Is IP in use,New IP
+196.25.207.1,0,Cisco Router ,,Y,No Need
+196.25.207.2,0,SAIX Transparent Firewall,,Y,196.201.6.24
+196.25.207.3,0,FREE,,N,
+196.25.207.4,0,FREE,,N,
+196.25.207.5,0,FREE,,N,
+196.25.207.6,0,FREE,,N,
+196.25.207.7,1,"Old CM IP, to be discontinued, new IP 196.201.6.77",New IP: 196.201.6.77,Y,196.201.6.81
+196.25.207.8,0,FREE,x-Monitor Server,N,
+196.25.207.9,0,Load Balancer IP #2,,Y,196.201.6.23
+196.25.207.10,0,FREE,,N,
+196.25.207.11,0,FREE,,N,
+196.25.207.12,0,ASTERISK.snowballeffect.net,,N,
+196.25.207.13,0,FREE was: propertynetholdings.co.za,CP2,N,196.201.6.32
+196.25.207.14,0, MT External IP,Hosted servers router,Y,196.201.6.80
+196.25.207.15,9,Hosted Servers Router MT External IP used for HTTP proxying,Was Miles,Y,196.201.6.79
+196.25.207.16,5,Global Image Server #2,,Y,196.201.6.78
+196.25.207.17,5,Global Image Server #1,,Y,196.201.6.76
+196.25.207.18            ,10,"  https://www.capewinemakersguild.com (CP2)"")",,Y,196.201.6.20
+196.25.207.19,,FREE,CP1 was dedicated secure.michaelangeloawards.com,Y,
+196.25.207.20,0,FREE,CP1 was SSL for carisma.co.za,Y,
+196.25.207.21,10,CP1 (primary shared IP),,Y,196.201.6.36
+196.25.207.22,10,CP2 (primary shared IP),,Y,196.201.6.38
+196.25.207.23,?0, https://secure.snowball.co.za (CP2),Discontinued,N,
+196.25.207.24,?0,Discontinued https://www.profiledirect.biz/196.25.207.24,CP2,Y,196.201.6.82
+196.25.207.25,0,Office External IP,,N,
+196.25.207.26,0,FREE (was Expand),,N,
+196.25.207.27,0,GCCS VPN / Asterisk,,N,
+196.25.207.28,10,https://www.africa-geographic.com/,CP2,Y,196.201.6.41
+196.25.207.29,?0,https://www.ecomrep.co.za/,CP2,Y,196.201.6.61
+196.25.207.30,?0,CP1OLD.snowballeffect.net,,N,
+196.25.207.31,0,Broadcast,,N,
+196.25.207.32,0,Network,,N,
+196.25.207.33,10,Miles Server #2,,N,
+196.25.207.34,0?,Ranvor temp IP for VPN,,N,
+196.25.207.35,0,Free IP,Formerly Hilton new server,N,
+196.25.207.36,5,Coreprocess,,Y,196.201.6.64
+196.25.207.37,5,Synchrowave Linux Server,,Y,196.201.6.65
+196.25.207.38,0,MT Acuo Interface,,N,
+196.25.207.39,0,Broadcast,,N,
+196.25.207.40,0,Network,,N,
+196.25.207.41,9,snowms58 Ken Gross Alertsite,,N,
+196.25.207.42,9,snowms59 Ken Gross Alertsite,,N,
+196.25.207.43,0,Broadcast,,N,
+196.25.207.44,0,Network,,N,
+196.25.207.45,0,Capital_place remote ex-Ben Harper IMQS FREE PUBLIC IP,,N,
+196.25.207.46,0,TP ADSL Modem (Planet) #2,,N,
+196.25.207.47,0,Capital_Bridge TP Side,,N,
+196.25.207.48,9,squid.snowball.co.za primary IP 1/2,,N,
+196.25.207.49,0,SA5M CP1,,Y,196.201.6.67
+196.25.207.50,10,Genasys technologies -> NAT 192.168.20.62,,Y,196.201.6.68
+196.25.207.51,9,"web proxy, also 192.168.19.2 and 41.164.7.165",,Y,196.201.6.69
+196.25.207.52,9,squid.snowball.co.za additional IP 2/2,was Available ex-Webfirms,N,
+196.25.207.53,?0,Available ex-Webfirms ,,N,
+196.25.207.54,10,WOWE -> 192.168.20.64,,N,
+196.25.207.55,10,WOWE Jet -> 192.168.20.65,,Y,196.201.6.70
+196.25.207.56,?0,https://ilovewine.co.za,,Y,196.201.6.71
+196.25.207.57,10,CP4,,Y,196.201.6.15
+196.25.207.58,0?,CP2 Werner Steyn Hotproperty in Cape Town,,Y,196.201.6.72
+196.25.207.59,0,L – Netgear smartswitch,,N,
+196.25.207.60,0,FREE,x-Bradley Redhat (NAT) -> 192.168.20.66,Y,196.201.6.83
+196.25.207.61,5,Coreprocess ,IP not in use ,N,
+196.25.207.62,9,PleskExpand,,Y,196.201.6.73
+196.25.207.63,0,Broadcast?,,N,
+196.25.207.64,0,Broadcast,,?,
